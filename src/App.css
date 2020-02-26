@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+#room {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+}
+
+#my-canvas {
+  cursor: url(https://cdn.emojidex.com/emoji/seal/eyeliner.png), crosshair;
+}
